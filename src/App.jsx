@@ -1,5 +1,6 @@
 import Navbar from './components/Navbar'
 import Hero from './sections/Hero'
+import PopularProducts from './sections/PopularProducts'
 
 export default function App () {
   return (
@@ -8,8 +9,8 @@ export default function App () {
       <section className='xl:padding-l wide:padding-r padding-b'>
         <Hero />
       </section>
-      <section>
-        PopularProducts
+      <section className='padding'>
+        <PopularProducts />
       </section>
       <section>
         SuperQuality
