@@ -1,11 +1,12 @@
 import Navbar from './components/Navbar'
+import Hero from './sections/Hero'
 
 export default function App () {
   return (
     <main className='relative'>
       <Navbar />
-      <section>
-        Hero
+      <section className='xl:padding-l wide:padding-r padding-b'>
+        <Hero />
       </section>
       <section>
         PopularProducts
