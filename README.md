@@ -1,8 +1,23 @@
-# React + Vite
+# Nike layout clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a clone of Nike website layout, built using vite, react and tailwind css. The goal of this project was to create a visually accurate representation of the Nike website while also incorporating some of the functionality present on the live site for educational purposes.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React JS
+- Tailwind CSS
+- Vite
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone this repository to your local machine using `<https://github.com/Ghosthard117/nike-layout.git>.
+2. Navigate to the project directory: `cd nike-layout`.
+3. Run `npm install` to install the project dependencies.
+
+### Author
+
+- Miguel Alvarez - Ghosthard117
+
+### License
