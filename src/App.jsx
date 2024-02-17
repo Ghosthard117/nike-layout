@@ -1,4 +1,5 @@
 import Navbar from './components/Navbar'
+import CustomerReviews from './sections/CustomerReviews'
 import Hero from './sections/Hero'
 import PopularProducts from './sections/PopularProducts'
 import Services from './sections/Services'
@@ -24,8 +25,8 @@ export default function App () {
       <section className='padding'>
         <SpecialOffer />
       </section>
-      <section>
-        CustomerReviews
+      <section className='bg-pale-blue padding'>
+        <CustomerReviews />
       </section>
       <section>
         Subscribe
