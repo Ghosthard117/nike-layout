@@ -1,6 +1,7 @@
 import Navbar from './components/Navbar'
 import Hero from './sections/Hero'
 import PopularProducts from './sections/PopularProducts'
+import Services from './sections/Services'
 import SuperQuality from './sections/SuperQuality'
 
 export default function App () {
@@ -16,8 +17,8 @@ export default function App () {
       <section className='padding'>
         <SuperQuality />
       </section>
-      <section>
-        Services
+      <section className='padding-x py-10'>
+        <Services />
       </section>
       <section>
         SpecialOffer
