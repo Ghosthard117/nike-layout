@@ -8,6 +8,10 @@ This project is a clone of Nike website layout, built using vite, react and tail
 - Tailwind CSS
 - Vite
 
+## Live site
+
+https://nikeghosthard.netlify.app/
+
 ## Getting Started
 
 To get started with this project, follow these steps:
@@ -21,3 +25,4 @@ To get started with this project, follow these steps:
 - Miguel Alvarez - Ghosthard117
 
 ### License
+MIT license
